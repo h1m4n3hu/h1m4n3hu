@@ -1,5 +1,5 @@
 ## Hi, I'm Himanshu
-![](https://i.ibb.co/Kx4LTjG/the.png)
+![](https://github.com/h1m4n3hu/h1m4n3hu/blob/main/the%20(1).png)
 
 ```python
 class Honey:
