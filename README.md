@@ -15,7 +15,7 @@ class Honey:
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy'],
             'misc': ['Firebase', 'Pygame', 'Babylon.js', 'PIXI.JS']
         }
-        self.soulset = ['illusions', 'minimalist', 'uninterested', 'godly']
+        self.soulset = ['illusions', 'antisocial', 'minimalist', 'uninterested', 'godly']
 
     def __str__(self):
         return self.name
