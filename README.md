@@ -7,7 +7,9 @@ class Honey:
     def __init__(self):
         self.username = 'h1m4n3hu'
         self.name = 'Himanshu Soni'
-        self.web = 'https://h1m4n3hu.github.io'
+        self.rollno = '21f2000698'
+        self.email = '21f2000698@student.onlinedegree.iitm.ac.in'
+        self.web = 'https://h1m4n3hu.github.io/h1m4n3hu'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ThreeJs', 'TKinter', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'Flask', 'Django'],
